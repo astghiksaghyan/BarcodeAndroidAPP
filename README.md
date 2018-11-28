@@ -1,2 +1,0 @@
-# BarcodeAndroidAPP
-BarCode Scanner
